@@ -30,6 +30,7 @@ Crop-Disease-Detection/
 ├── sample_data/
 ├── README.md
 └── .gitignoreo leaf disease detection using a quantum-inspired feature transformation.
+```
 
 ## How to run
 
